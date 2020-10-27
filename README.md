@@ -2,8 +2,8 @@
 
 For run php file you have to server in your device .
 
-*** I recommended install XAMPP for localserver 
+*** I recommended install " XAMPP CONTROL PANAL " for localserver 
 
-*** Download the file and save into htdocs folder in xampp software 
+*** After installing xampp downloaded file save into htdocs folder in xampp software 
 
-*** When run first open xampp then start APACHE for run php file . { Start MYSQL for database (if needed) for database home page click  ' admin ' in the mysql }
+*** When run the file first open xampp then start APACHE for run php file . { Start MYSQL for database (if needed) for database home page click  " admin " in the mysql }
