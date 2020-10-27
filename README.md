@@ -1,5 +1,7 @@
 # php
 
+# Download the zip file and extract first 
+
 For run php file you have to server in your device .
 
 *** I recommended install " XAMPP CONTROL PANAL " for localserver 
